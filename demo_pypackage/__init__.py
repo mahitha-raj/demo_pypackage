@@ -1,7 +1,6 @@
 #!/usr/bin/env python3.6
 
 def story():
-    return (u'The cow lived on the farm'
-            u'The cow said hi moo')
+    return ('The cow lived on the farm \n The cow said hi moo')
             
             
