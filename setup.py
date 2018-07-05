@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(name='demo_pypackage',
-      version='0.0.1',
+      version='1.0.0',
       description='just a farm story',
       url='http://github.com/mahitha-raj/demo_pypackage',
       author='Mahitha Rajendran',
